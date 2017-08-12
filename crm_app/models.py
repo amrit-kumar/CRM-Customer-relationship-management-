@@ -1,3 +1,4 @@
+#Complete Model architecture is not present here
 from django.db import models
 
 # Create your models here.
